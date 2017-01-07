@@ -1,13 +1,21 @@
 {
     "name": "angularjs-using-config-function",
-    "version": "1.0.0",
-    "description": "",
+    "version": "1.1.0",
+    "description": "This project demonstrate how to use config function in angularjs",
     "main": "gulpfile.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "",
-    "license": "ISC",
+    "author": {
+        "name": "Purshottam Sharma",
+        "email": "purshottam.indore@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/impurshottam/angularjs-using-config-function.git"
+    },
+    "homepage": "https://github.com/impurshottam/angularjs-using-config-function",
+    "license": "MIT",
     "devDependencies": {
         "body-parser": "^1.11.0",
         "bootstrap": "^3.3.2",

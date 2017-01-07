@@ -1,10 +1,17 @@
 {
     "name": "angularjs-using-config-function",
-    "description": "",
     "main": "index.js",
-    "authors": "",
-    "license": "ISC",
-    "homepage": "",
+    "description": "This project demonstrate how to use config function in angularjs",
+    "author": {
+        "name": "Purshottam Sharma",
+        "email": "purshottam.indore@gmail.com",
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/impurshottam/angularjs-using-config-function.git"
+    },
+    "homepage": "https://github.com/impurshottam/angularjs-using-config-function",
+    "license": "MIT",
     "dependencies": {
         "lodash": "^4.17.3",
         "angular-sanitize": "^1.6.1",

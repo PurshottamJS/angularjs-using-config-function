@@ -1,5 +1,6 @@
 bower_components
 gulp
+server
 node_modules
 gulpfile.js
 .tmp

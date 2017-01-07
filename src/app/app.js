@@ -1,3 +1,6 @@
+/**
+ * @author Purshottam Sharma <purshottam.indore@gmail.com>
+ */
 ;
 (function(window, angular, undefined) {
     'use strict';
